@@ -7,4 +7,4 @@
   
   WELCOME TO
   <img width="1920" height="1080" alt="Project_Cyberfunk (1)" src="https://github.com/user-attachments/assets/4649b2b0-06ed-4b8f-9e37-edceaff7887f" />
-  This is a fan page dedicated to one of my favorite games, a throwback to the classic Y2K era, BOMBRUSH CYBERFUNK! I decided to do this so that i can test my HTML and CSS skills, trying to show more people how wonderful this game is! <br> SERIOUSLY, GO <a href="https://store.steampowered.com/app/1353230/Bomb_Rush_Cyberfunk/" target="_blank">CHECK IT OUT!</a>
+  This is a fan page dedicated to one of my favorite games, a throwback to the classic Y2K era, BOMBRUSH CYBERFUNK! I decided to do this so that I can test my HTML and CSS skills, trying to show more people how wonderful this game is! <br> SERIOUSLY, GO <a href="https://store.steampowered.com/app/1353230/Bomb_Rush_Cyberfunk/" target="_blank">CHECK IT OUT!</a>
