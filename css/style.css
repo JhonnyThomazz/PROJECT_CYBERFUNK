@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: darkred;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 2rem;
+}
+body{
+    background-color: black;
+}
