@@ -1,10 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com font=Rubik+code&weight=500&size=22&pause=1000&color=643080&center=true&vCenter=true&random=false&width=524&lines=+WORK+IN+PROGRESS!" alt="Typing SVG">
+      <img src="https://readme-typing-svg.demolab.com?font=Rubik+code&weight=500&size=24&pause=1000&color=7852A9&center=true&vCenter=true&random=false&width=800&lines=+WORK+IN+PROGRESS!;W.I.P!" alt="Typing SVG">
   </a>
   
 ##
-  
   WELCOME TO
   <img width="2204" height="1154" alt="image" src="https://github.com/user-attachments/assets/554065ac-b3d3-4c5f-9392-12e0072cfd73" />
 ##
